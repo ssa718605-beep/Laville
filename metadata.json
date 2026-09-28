@@ -1,0 +1,6 @@
+{
+  "name": "PinkTask - Quản Lý Công Việc",
+  "description": "Ứng dụng quản lý công việc và thành viên với giao diện hồng hiện đại, theo dõi tiến độ, link báo cáo kết quả và hệ thống bình luận.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
